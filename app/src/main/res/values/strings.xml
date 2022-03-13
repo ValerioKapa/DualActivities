@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dual Activities</string>
+    <string name="edit_text">ter a message</string>
+    <string name="button_send">Send</string>
+</resources>
