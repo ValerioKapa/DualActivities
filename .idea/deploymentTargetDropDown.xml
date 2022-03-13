@@ -6,12 +6,12 @@
         <type value="RUNNING_DEVICE_TARGET" />
         <deviceKey>
           <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="10160a83fa622d02" />
+            <type value="VIRTUAL_DEVICE_PATH" />
+            <value value="C:\Users\eleni\.android\avd\Pixel_3_API_27.avd" />
           </Key>
         </deviceKey>
       </Target>
     </runningDeviceTargetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2022-03-11T17:31:43.537850500Z" />
+    <timeTargetWasSelectedWithDropDown value="2022-03-13T17:47:11.843076300Z" />
   </component>
 </project>
